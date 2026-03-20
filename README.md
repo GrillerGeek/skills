@@ -21,6 +21,7 @@ claude plugin install ux-review
 | Plugin | Description |
 |--------|-------------|
 | [ux-review](https://github.com/GrillerGeek/ux-review) | Multi-agent UX review with simulated personas and specialist analysis |
+| [idd-framework](https://github.com/GrillerGeek/idd-framework) | Intent-Driven Development workflow with role-specific agents for stakeholder interviews, artifact generation, and structured documentation |
 
 ## Local Testing
 
