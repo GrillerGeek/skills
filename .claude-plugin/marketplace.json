@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "grillergeek-plugins",
+  "description": "A curated collection of Claude Code plugins for UX review, usability testing, and more",
+  "owner": {
+    "name": "GrillerGeek",
+    "email": "jason.robey@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "ux-review",
+      "description": "Multi-agent UX review system with simulated user personas and specialist analysis. Orchestrates intake interviews, persona research, app walkthroughs, and technical/visual specialist reviews into a prioritized backlog.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/GrillerGeek/ux-review.git"
+      },
+      "homepage": "https://github.com/GrillerGeek/ux-review"
+    }
+  ]
+}
