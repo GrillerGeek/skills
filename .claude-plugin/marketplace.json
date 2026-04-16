@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "grillergeek-plugins",
-  "description": "A curated collection of Claude Code plugins for UX review, usability testing, intent-driven development, and more",
+  "description": "A curated collection of Claude Code plugins for UX review, usability testing, intent-driven development, creative thinking, and more",
   "owner": {
     "name": "GrillerGeek",
     "email": "jason.robey@gmail.com"
@@ -27,6 +27,16 @@
         "path": "plugin"
       },
       "homepage": "https://github.com/GrillerGeek/idd-framework"
+    },
+    {
+      "name": "builders-forge",
+      "description": "Creative thinking sparring partner for work challenges. Adaptive four-phase framework (FRAME, FORGE, STRESS TEST, SHAPE) that combines First Principles, Synectics, SCAMPER, and Socratic questioning to challenge assumptions, expand thinking, and produce actionable outputs.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/GrillerGeek/builders-forge.git"
+      },
+      "homepage": "https://github.com/GrillerGeek/builders-forge"
     }
   ]
 }
