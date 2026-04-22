@@ -37,6 +37,18 @@
         "url": "https://github.com/GrillerGeek/builders-forge.git"
       },
       "homepage": "https://github.com/GrillerGeek/builders-forge"
+    },
+    {
+      "name": "guildhall",
+      "description": "TDD-ordered coding agent harness tuned for Opus 4.7. The /quest command (Mordain the Guildmaster) dispatches six Sonnet adventurer agents for prototyping, test authoring, feature implementation, refactoring, debugging, and optional Playwright UI testing.",
+      "version": "0.2.0",
+      "category": "orchestration",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/GrillerGeek/guildhall.git",
+        "path": "plugin"
+      },
+      "homepage": "https://github.com/GrillerGeek/guildhall"
     }
   ]
 }
