@@ -40,8 +40,7 @@
     },
     {
       "name": "guildhall",
-      "description": "TDD-ordered coding agent harness tuned for Opus 4.7. The /quest command (Mordain the Guildmaster) dispatches six Sonnet adventurer agents for prototyping, test authoring, feature implementation, refactoring, debugging, and optional Playwright UI testing.",
-      "version": "0.2.0",
+      "description": "TDD-ordered coding agent harness tuned for Opus 4.8, with Claude Fable 5-aware orchestration. The /quest command (Mordain the Guildmaster) writes a durable plan file, then dispatches 17 specialist adventurers tiered across Opus / Sonnet / Haiku — a sequential TDD build chain, a parallel post-green review fan-out (security and docs always-on, six gated production-readiness reviewers, optional Playwright UI tests), and a PR draft to close. Integrates with IDD-framework specs.",
       "category": "orchestration",
       "source": {
         "source": "git-subdir",

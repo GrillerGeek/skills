@@ -29,7 +29,7 @@ That's it — the plugin is ready to use in your next Claude Code session.
 | [ux-review](https://github.com/GrillerGeek/ux-review) | Review | Multi-agent UX review with simulated user personas and specialist analysis. Orchestrates intake interviews, persona research, app walkthroughs, and technical/visual specialist reviews into a prioritized backlog. |
 | [idd-framework](https://github.com/GrillerGeek/idd-framework) | Development | Intent-Driven Development workflow with role-specific agents for stakeholder interviews, artifact generation, and structured documentation. Decomposes purpose into Product, Intention, Expectation, and Spec artifacts. |
 | [builders-forge](https://github.com/GrillerGeek/builders-forge) | Productivity | Creative thinking sparring partner for work challenges. Adaptive four-phase framework (FRAME, FORGE, STRESS TEST, SHAPE) combining First Principles, Synectics, SCAMPER, and Socratic questioning to challenge assumptions and produce actionable outputs. |
-| [guildhall](https://github.com/GrillerGeek/guildhall) | Orchestration | TDD-ordered coding agent harness tuned for Opus 4.7. The `/quest` command (Mordain the Guildmaster) dispatches six Sonnet adventurer agents for prototyping, test authoring, feature implementation, refactoring, debugging, and optional Playwright UI testing. |
+| [guildhall](https://github.com/GrillerGeek/guildhall) | Orchestration | TDD-ordered coding agent harness tuned for Opus 4.8. The `/quest` command (Mordain the Guildmaster) writes a durable plan file, then dispatches 17 specialist adventurers tiered across Opus / Sonnet / Haiku through a sequential TDD build chain, a gated parallel review fan-out, and a closing PR draft. Integrates with IDD-framework specs. |
 
 ## Local Testing
 
