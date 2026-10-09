@@ -40,7 +40,7 @@
     },
     {
       "name": "guildhall",
-      "description": "TDD-ordered coding agent harness. The /quest command (Mordain the Guildmaster) writes a durable plan file, then dispatches 18 specialist adventurers with Opus / Sonnet / Haiku defaults: a sequential TDD build chain, a parallel post-green review fan-out (security and docs always-on, six gated production-readiness reviewers, optional Playwright UI tests), and a PR draft to close. Optional per-role model routing. Integrates with IDD-framework specs.",
+      "description": "TDD-ordered coding agent harness tuned for Opus-tier orchestration (Opus 5 recommended seat; Claude Fable 5 for the hardest quests). The /quest command (Mordain the Guildmaster) writes a durable plan file, then dispatches 18 specialist adventurers tiered across Opus / Sonnet / Haiku — a sequential TDD build chain, a parallel post-green review fan-out (security and docs always-on, six gated production-readiness reviewers, optional Playwright UI tests), and a PR draft to close, with quest-discovered unknowns written back to IDD Explorations. A deterministic plugin hook enforces Mordain's plan-file-only Write rule during quests. Integrates with IDD-framework specs.",
       "category": "orchestration",
       "source": {
         "source": "git-subdir",
