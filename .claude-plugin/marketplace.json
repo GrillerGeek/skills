@@ -48,6 +48,17 @@
         "path": "plugin"
       },
       "homepage": "https://github.com/GrillerGeek/guildhall"
+    },
+    {
+      "name": "guildhall-tavern",
+      "description": "Companion to guildhall: a live pane of the guild during a /quest. Shows Mordain and each adventurer he summons, grouped by phase, with an icon, status, elapsed time and an in-character line for what they are doing right now. Watches only; never changes what the quest does.",
+      "category": "orchestration",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/GrillerGeek/guildhall.git",
+        "path": "mods/guildhall-tavern"
+      },
+      "homepage": "https://github.com/GrillerGeek/guildhall/tree/main/mods/guildhall-tavern"
     }
   ]
 }
