@@ -51,7 +51,7 @@
     },
     {
       "name": "guildhall-tavern",
-      "description": "Companion to guildhall: a live pane of the guild during a /quest. Shows Mordain and each adventurer he summons, grouped by phase, with an icon, status, elapsed time and an in-character line for what they are doing right now. Watches only; never changes what the quest does.",
+      "description": "Companion to guildhall: a live pane of the guild during a /quest. Shows Mordain and each adventurer he summons, grouped by phase, with an icon, status, elapsed time and an in-character line for what they are doing right now. When the quest settles it recaps the time each phase took and which gated reviewers fired or were skipped, read from the quest's plan; with the pane closed, a one-line band above the prompt keeps the quest in sight. Watches only; never changes what the quest does.",
       "category": "orchestration",
       "source": {
         "source": "git-subdir",
